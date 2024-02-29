@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+a {
+  text-decoration: none;
+}
 
 .header {
   background: #388bff;
@@ -10,7 +13,6 @@
 .inner {
   width: 1100px;
   margin: 0 auto;
-
 }
 
 .logo {
@@ -33,10 +35,7 @@
   padding: 30px;
 }
 
-.li a {
+li a {
   color: #ffffff;
 }
 
-.a {
-  text-decoration: none;
-}
